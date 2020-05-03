@@ -1,6 +1,12 @@
 # Course Projects during PhD @ IIT Delhi
 
-**1. Computer Vision:** 
+**1. AI for Cognitive Robotics:**
+
+a) Bayesion State estimation of an underwater robot (agent) using observations
+
+b) Symbolic planning of mobile manipulator
+
+**2. Computer Vision:** 
 
 a) Hand gesture-based control of Music Player using Convolutional Neural Network (CNN)
 
@@ -10,13 +16,13 @@ c) Image mosaicing/stitching (Panorma)
 
 d) Medial axis detection of tool in a vedio
 
-**2. Analytical Dynamics:** 
+**3. Analytical Dynamics:** 
 
 a) Double Pendulum dynamics simulation and chaos analysis
 
 b) Newton canon ball dynamic simulation
 
-**3. Linear Systems Theory:** 
+**4. Linear Systems Theory:** 
 
 a) State feedback controller and reduced order functional observer design of LTI System
 
