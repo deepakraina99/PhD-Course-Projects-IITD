@@ -113,5 +113,6 @@ Note: The grading policy is subject to change without notice.
 This exercise is based on the simulation tool developed as part of an undergraduate project at Dept. of CSE, IITD led by 
 [Shreshth Tuli](www.github.com/shreshthtuli).
 <br>
-Shreshth will be the guest teaching assistant for this homework. He is reachable at shreshth.cs116@cse.iitd.ac.in. 
 
+## Solution
+Refer this [report](https://github.com/deepakraina99/PhD-Course-Projects-IITD/blob/master/AI-Cognitive-Robotics-COL864/symbolic-planning-mobile-manipulator/docs/report.pdf) for solution of this assignment.
