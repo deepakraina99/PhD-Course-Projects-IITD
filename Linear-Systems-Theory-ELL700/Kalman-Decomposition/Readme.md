@@ -15,5 +15,6 @@ For more info, please refer this [report](https://github.com/deepakraina99/PhD-C
 - MATLAB R2019b with System Control Toolbox
 
 # How to run the code?
-
+```sh
 [Abar,Bbar,Cbar,T] = getKalmanDec(A,B,C)
+```
