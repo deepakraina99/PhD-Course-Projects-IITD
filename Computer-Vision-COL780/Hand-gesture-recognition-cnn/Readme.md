@@ -11,10 +11,10 @@ For more info, please refer this [assignment](https://github.com/deepakraina99/P
 #### Steps:
 
 **1.** Without Media player integration
- 
- *python test.py*
- 
+ ```sh
+ python test.py
+ ```
 **2.** With media player integration (requires few media .mp3 files in the current directory)
-
-*python vlctest.py*
-
+```sh
+python vlctest.py
+```
