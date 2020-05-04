@@ -10,8 +10,12 @@ For more info, please refer this [assignment](https://github.com/deepakraina99/P
 # How to run the code?
 #### Steps:
 
-**1.** *python cam_calibration.py image_location/foldername*
-
-**2.** *python renderer.py marker_locaton/filename video_location/filename object_location/filename output_locaton/filename feature_detector(surf/sift)*
-
-**3.** *python move_renderer.py marker_locaton/filename marker2_location/filename video_location/filename object_location/filename output_locaton/filename*
+```sh
+1. python cam_calibration.py image_location/foldername
+```
+```sh
+2. python renderer.py marker_locaton/filename video_location/filename object_location/filename output_locaton/filename feature_detector(surf/sift)
+```
+```sh
+3. python move_renderer.py marker_locaton/filename marker2_location/filename video_location/filename object_location/filename output_locaton/filename
+```
