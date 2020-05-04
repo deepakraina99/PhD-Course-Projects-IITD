@@ -8,5 +8,6 @@ For more info, please refer this [assignment](https://github.com/deepakraina99/P
 > course at IIT Delhi.
 
 # How to run the code?
-
-*python run.py input_foldername*
+```sh
+python run.py input_foldername
+```
