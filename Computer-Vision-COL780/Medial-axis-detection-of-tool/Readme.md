@@ -8,5 +8,6 @@ For more info, please refer this [assignment](https://github.com/deepakraina99/P
 > course at IIT Delhi.
 
 # How to run the code?
-
-*python medial_axis.py input_filename*
+```sh
+python medial_axis.py input_filename
+```
